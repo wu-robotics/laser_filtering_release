@@ -1,0 +1,12 @@
+Source: ros-groovy-laser-filtering
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 7.0.0), ros-groovy-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-groovy-laser-filtering
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-map-laser
+Description: ROS Libraries for filtering specific kinds of laser scans
