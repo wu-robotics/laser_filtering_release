@@ -1,3 +1,26 @@
+## laser_filtering (groovy) - 0.0.3-0
+
+The packages in the `laser_filtering` repository were released into the `groovy` distro by running `/usr/bin/bloom-release laser_filtering --track groovy --rosdistro groovy --new-track` on `Sat, 16 Aug 2014 21:52:12 -0000`
+
+These packages were released:
+- `laser_filtering`
+- `map_laser`
+
+Version of package(s) in repository `laser_filtering`:
+- upstream repository: https://github.com/DLu/laser_filtering.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.28`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## laser_filtering (hydro) - 0.0.2-0
 
 The packages in the `laser_filtering` repository were released into the `hydro` distro by running `/usr/bin/bloom-release laser_filtering --track hydro --rosdistro hydro` on `Tue, 22 Jul 2014 14:32:19 -0000`
