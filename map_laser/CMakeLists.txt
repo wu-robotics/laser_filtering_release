@@ -8,7 +8,7 @@ catkin_package(
 )
 
 install(FILES filters.yaml lfilter.launch
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}/config
 )
 
 install(PROGRAMS scripts/filter.py
