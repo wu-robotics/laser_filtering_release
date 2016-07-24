@@ -1,3 +1,28 @@
+## laser_filtering (indigo) - 0.0.4-0
+
+The packages in the `laser_filtering` repository were released into the `indigo` distro by running `/usr/bin/bloom-release laser_filtering --track indigo --rosdistro indigo` on `Sun, 24 Jul 2016 00:48:30 -0000`
+
+These packages were released:
+- `laser_filtering`
+- `map_laser`
+
+Version of package(s) in repository `laser_filtering`:
+
+- upstream repository: https://github.com/DLu/laser_filtering.git
+- release repository: https://github.com/wu-robotics/laser_filtering_release.git
+- rosdistro version: `0.0.2-0`
+- old version: `0.0.2-0`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## laser_filtering (jade) - 0.0.2-0
 
 The packages in the `laser_filtering` repository were released into the `jade` distro by running `/usr/bin/bloom-release laser_filtering --track jade --rosdistro jade --new-track` on `Sun, 20 Dec 2015 18:53:51 -0000`
