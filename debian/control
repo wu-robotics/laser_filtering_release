@@ -1,0 +1,12 @@
+Source: ros-kinetic-map-laser
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-nav-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: http://wiki.ros.org/map_laser
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-map-laser
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-laser-filters, ros-kinetic-nav-msgs, ros-kinetic-roslib, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: Filters a laser scan to remove points that are in the current static map
