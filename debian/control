@@ -1,0 +1,12 @@
+Source: ros-melodic-laser-filtering
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-laser-filtering
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-map-laser
+Description: ROS Libraries for filtering specific kinds of laser scans
