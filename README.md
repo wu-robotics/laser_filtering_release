@@ -1,3 +1,28 @@
+## laser_filtering (melodic) - 0.0.4-0
+
+The packages in the `laser_filtering` repository were released into the `melodic` distro by running `/usr/bin/bloom-release laser_filtering -r melodic -y` on `Tue, 28 Aug 2018 20:03:31 -0000`
+
+These packages were released:
+- `laser_filtering`
+- `map_laser`
+
+Version of package(s) in repository `laser_filtering`:
+
+- upstream repository: https://github.com/DLu/laser_filtering.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## laser_filtering (lunar) - 0.0.4-0
 
 The packages in the `laser_filtering` repository were released into the `lunar` distro by running `/usr/bin/bloom-release laser_filtering -r lunar -y` on `Tue, 28 Aug 2018 19:57:48 -0000`
