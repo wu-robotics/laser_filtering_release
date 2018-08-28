@@ -1,0 +1,12 @@
+Source: ros-lunar-map-laser
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-nav-msgs, ros-lunar-rospy, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-tf
+Homepage: http://wiki.ros.org/map_laser
+Standards-Version: 3.9.2
+
+Package: ros-lunar-map-laser
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-laser-filters, ros-lunar-nav-msgs, ros-lunar-roslib, ros-lunar-rospy, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-tf
+Description: Filters a laser scan to remove points that are in the current static map
