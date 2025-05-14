@@ -1,3 +1,28 @@
+## laser_filtering (noetic) - 0.0.6-1
+
+The packages in the `laser_filtering` repository were released into the `noetic` distro by running `/usr/bin/bloom-release laser_filtering -r noetic` on `Wed, 14 May 2025 01:29:30 -0000`
+
+These packages were released:
+- `laser_filtering`
+- `map_laser`
+
+Version of package(s) in repository `laser_filtering`:
+
+- upstream repository: https://github.com/DLu/laser_filtering.git
+- release repository: https://github.com/wu-robotics/laser_filtering_release.git
+- rosdistro version: `0.0.5-1`
+- old version: `0.0.5-1`
+- new version: `0.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## laser_filtering (noetic) - 0.0.5-1
 
 The packages in the `laser_filtering` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release laser_filtering --ros-distro noetic --edit` on `Wed, 13 May 2020 18:37:02 -0000`
